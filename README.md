@@ -2,6 +2,12 @@
 
 GitHub Pages에 배포하는 정적 웹앱에서 시작해 Google Sheets, Open API, DB 연동까지 단계적으로 확장하는 왕초보용 프로젝트 템플릿입니다.
 
+## 바로 보기
+
+GitHub Pages 배포 주소:
+
+https://greatsong.github.io/first_app/
+
 ## 목표
 
 - GitHub Pages로 웹앱을 직접 배포한다.
